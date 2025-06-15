@@ -19,4 +19,4 @@ export class UpdatePasswordDto {
 
   @IsNotEmpty()
   currentPassword: string;
-}
+} 
