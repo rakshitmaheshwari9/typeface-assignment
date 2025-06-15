@@ -1,0 +1,1 @@
+export const fileMaxSize=  10240;
