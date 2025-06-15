@@ -2,6 +2,10 @@
 
 A robust Node.js backend server for handling file storage operations with secure authentication and AWS S3 integration.
 
+Postman Collections for the APIs:-
+
+```https://www.postman.com/sap000-8080/workspace/publci/collection/39195516-1466e20b-7448-40e9-aaeb-a3b9402d6d47?action=share&creator=39195516```
+
 ## Features
 
 -  JWT-based Authentication
